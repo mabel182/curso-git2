@@ -1,1 +1,2 @@
 este archivo se va a manejar desde la interfaz grafica
+se agrega otra linea
